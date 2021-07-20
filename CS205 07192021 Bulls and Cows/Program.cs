@@ -11,6 +11,17 @@ namespace CS205_07192021_Bulls_and_Cows
         static void Main(string[] args)
         {
             //Here's happening how programm asks user to input the range/difficulty of the code
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine(
+                "\n ******   **     ** **       **        ********     **        ******    *******   **       **  ********" +
+                "\n/*////** /**    /**/**      /**       **//////     */ *      **////**  **/////** /**      /** **////// " +
+                "\n/*   /** /**    /**/**      /**      /**          / **      **    //  **     //**/**   *  /**/**       " +
+                "\n/******  /**    /**/**      /**      /*********    */ * *  /**       /**      /**/**  *** /**/*********" +
+                "\n/*//// **/**    /**/**      /**      ////////**   *  / *   /**       /**      /**/** **/**/**////////**" +
+                "\n/*    /**/**    /**/**      /**             /**  /*   /*   //**    **//**     ** /**** //****       /**" +
+                "\n/******* //******* /********/******** ********   / **** *   //******  //*******  /**/   ///** ******** " +
+                "\n///////   ///////  //////// //////// ////////     //// /     //////    ///////   //       // ////////  \n\n\n");
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Enter number from 3 to 5");
             int dif_Level = 0;
             while (true)
