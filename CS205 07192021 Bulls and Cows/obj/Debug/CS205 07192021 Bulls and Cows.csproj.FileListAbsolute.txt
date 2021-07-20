@@ -1,0 +1,7 @@
+D:\Documents\Yoobee projects\CS205\CS205 07192021 Bulls and Cows\CS205 07192021 Bulls and Cows\bin\Debug\CS205 07192021 Bulls and Cows.exe.config
+D:\Documents\Yoobee projects\CS205\CS205 07192021 Bulls and Cows\CS205 07192021 Bulls and Cows\bin\Debug\CS205 07192021 Bulls and Cows.exe
+D:\Documents\Yoobee projects\CS205\CS205 07192021 Bulls and Cows\CS205 07192021 Bulls and Cows\bin\Debug\CS205 07192021 Bulls and Cows.pdb
+D:\Documents\Yoobee projects\CS205\CS205 07192021 Bulls and Cows\CS205 07192021 Bulls and Cows\obj\Debug\CS205 07192021 Bulls and Cows.csproj.AssemblyReference.cache
+D:\Documents\Yoobee projects\CS205\CS205 07192021 Bulls and Cows\CS205 07192021 Bulls and Cows\obj\Debug\CS205 07192021 Bulls and Cows.csproj.CoreCompileInputs.cache
+D:\Documents\Yoobee projects\CS205\CS205 07192021 Bulls and Cows\CS205 07192021 Bulls and Cows\obj\Debug\CS205 07192021 Bulls and Cows.exe
+D:\Documents\Yoobee projects\CS205\CS205 07192021 Bulls and Cows\CS205 07192021 Bulls and Cows\obj\Debug\CS205 07192021 Bulls and Cows.pdb
